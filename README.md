@@ -1,6 +1,6 @@
 # reading-notes
 ## **Growth Mindset** 
-Hello, my name is Najma and i am a student at Tech Educators.😄  
+Hello, my name is **Najma** and i am a student at **Tech Educators**😄  
 
 
 A growth mindset is the belief that people can develop and perservere to any challenge through practice and resilience.  
