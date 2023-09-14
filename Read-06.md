@@ -1,4 +1,5 @@
-# Read: 06
+
+# Read- 06
 ## JavaScript
 A programming language which allows you to implement complex features for web pages
 - makes it dynamic and interactive and is used alongside html and css
