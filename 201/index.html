@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Class 01 Demo</title>
+    <style>
+      body {
+        margin: 0;
+        font-size: 10px;
+
+        /*use inspect - all text except .vip*/
+      }
+      header {
+        background-color: teal;
+        color: white;
+        padding: 32px;
+      }
+      #page-title {
+        /*target id*/
+        font-family: monospace;
+      }
+      main {
+        padding: 0 16px;
+        /*top and bottom = 0*/
+      }
+      p {
+        font-family: sans-serif;
+      }
+      .vip {
+        font-style: italic;
+        font-size: 1.5rem;
+        /* use full stop target class, 1rem = 16px*/
+      }
+      footer {
+        background-color: seagreen;
+        color: white;
+        padding: 10px;
+      }
+      footer p {
+        transform: rotate(180deg);
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1 id="page-title">Class 01 Demo</h1>
+    </header>
+
+    <main>
+      <h2>Semantic HTML</h2>
+      <p class="vip">Lets talk about semantic HTML</p>
+      <p>this is a paragraph tag! Hold pieces of text</p>
+      <p>Throughout the 201, cover more HTML & CSS.</p>
+      <h2>201 overview</h2>
+      <p>More JavaScript</p>
+      <h3>Project week</h3>
+      <p class="vip">
+        after 3 weeks learning JavaScript, we will have a project week creating
+        a project in groups
+      </p>
+    </main>
+    <footer>
+      <p>&copy; Class-01-Demo</p>
+    </footer>
+
+    <script>
+      let username = prompt("what is your name");
+      console.log("the users name is " + username); //checks
+
+      //ask question
+      let eyes = prompt("what color are your eyes");
+      console.log(eyes);
+
+      alert(
+        "hello there " + username + ". you have beautiful " + eyes + " eyes"
+      );
+    </script>
+  </body>
+</html>
+
+// gist - github - basic example of a website

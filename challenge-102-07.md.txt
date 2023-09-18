@@ -1,0 +1,14 @@
+# robot.md
+## Tell the Robot what to do
+Tim is a Robot
+
+Give the robot a set of instructions to watch rick's site Never Gonna Give You Up in youtube
+
+1. Click on Google Chrome
+2. move your mouse to click on new tab button
+3. select the URL bar
+4. type youtube.com
+5. click on search text box
+6. search rick asltey's ...
+7. click search button
+8. click on the first result
