@@ -20,6 +20,6 @@ Tech Educator Full Stack MERN bootcamp
 ### Code 201 Reading Notes
 
 - Class 01 - https://najmasy.github.io/reading-notes/201/Read-01
--
+- Class 02 - https://najmasy.github.io/reading-notes/201/Read-02
 
 15 links
