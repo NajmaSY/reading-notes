@@ -23,3 +23,5 @@ Tech Educator Full Stack MERN bootcamp
 - Class 02 - https://najmasy.github.io/reading-notes/201/Read-02
 
 15 links
+
+lab2- https://najmasy.github.io/201-class02/app.js
