@@ -8,7 +8,7 @@ object syntax
 
 - collection of related data and/or funcctionality
   e.g. variables and functions
-- create object - define/initialise variable
+- create object -- define/initialise variable
 - e.g const person = []
   in terminal enter person
 

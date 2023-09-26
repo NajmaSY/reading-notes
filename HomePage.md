@@ -28,3 +28,7 @@ Tech Educator Full Stack MERN bootcamp
 15 links
 
 lab2- https://najmasy.github.io/201-class02/app.js
+
+https://najmasy.github.io/201-Lab5a/
+
+https://github.com/NajmaSY/201-Lab5a/blob/main/js/app.js
