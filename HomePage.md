@@ -24,6 +24,8 @@ Tech Educator Full Stack MERN bootcamp
 - Class 03 - https://najmasy.github.io/reading-notes/201/Read-03
 - Class 04 - https://najmasy.github.io/reading-notes/201/Read-04
 - Class 05 - https://najmasy.github.io/reading-notes/201/Read-05
+- Class 06 - https://najmasy.github.io/reading-notes/201/Read-06
+- Class 07 - https://najmasy.github.io/reading-notes/201/Read-07
 
 15 links
 
