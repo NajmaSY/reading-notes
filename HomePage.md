@@ -26,11 +26,11 @@ Tech Educator Full Stack MERN bootcamp
 - Class 05 - https://najmasy.github.io/reading-notes/201/Read-05
 - Class 06 - https://najmasy.github.io/reading-notes/201/Read-06
 - Class 07 - https://najmasy.github.io/reading-notes/201/Read-07
-
-15 links
-
-lab2- https://najmasy.github.io/201-class02/app.js
-
-https://najmasy.github.io/201-Lab5a/
-
-https://github.com/NajmaSY/201-Lab5a/blob/main/js/app.js
+- Class 08 - https://najmasy.github.io/reading-notes/201/Read-08
+- Class 09 - https://najmasy.github.io/reading-notes/201/Read-09
+- Class 10 - https://najmasy.github.io/reading-notes/201/Read-10
+- Class 11 - https://najmasy.github.io/reading-notes/201/Read-11
+- Class 12 - https://najmasy.github.io/reading-notes/201/Read-12
+- Class 13 - https://najmasy.github.io/reading-notes/201/Read-13
+- Class 14 - https://najmasy.github.io/reading-notes/201/Read-14
+- Class 15 - https://najmasy.github.io/reading-notes/201/Read-15
